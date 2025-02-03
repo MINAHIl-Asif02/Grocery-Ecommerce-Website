@@ -213,7 +213,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   // Example: Add a new product dynamically
   addProduct({
-    name: "Fresh Banana",
+    name: "Fresh Potato",
     price: 5.99,
     image: "image/product-5.png", // Update to a valid image path
   });
@@ -229,7 +229,7 @@ addProduct({
     image: "image/product-2.png", // Update to a valid image path
   });
   addProduct({
-    name: "Fresh Grapes",
+    name: "Fresh Orange",
     price: 7.99,
     image: "image/product-1.png", // Update to a valid image path
   });
