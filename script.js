@@ -217,7 +217,17 @@ document.addEventListener("DOMContentLoaded", () => {
     price: 5.99,
     image: "image/product-5.png", // Update to a valid image path
   });
-
+addProduct({
+    name: "Fresh Meat",
+    price: 5.99,
+    image: "image/product-3.png", // Update to a valid image path
+  });
+    
+    addProduct({
+    name: "Fresh Onion",
+    price: 5.99,
+    image: "image/product-2.png", // Update to a valid image path
+  });
   addProduct({
     name: "Fresh Grapes",
     price: 7.99,
